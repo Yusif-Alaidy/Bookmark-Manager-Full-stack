@@ -1,0 +1,6 @@
+@Bookmark_Manager_HostAddress = http://localhost:5015
+
+GET {{Bookmark_Manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -166,3 +166,6 @@ D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\obj\Debug\net1
 D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\obj\Debug\net10.0\Bookmark Manager.pdb
 D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\obj\Debug\net10.0\Bookmark Manager.genruntimeconfig.cache
 D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\obj\Debug\net10.0\ref\Bookmark Manager.dll
+D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programing\Projects\Bookmark Manager\Back-end\Bookmark Manager\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

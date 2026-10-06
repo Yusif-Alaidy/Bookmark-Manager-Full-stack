@@ -28,12 +28,20 @@ namespace Bookmark_Manager
                 ));
             #endregion
 
+            builder.Services.AddEndpointsApiExplorer(); // Required for Minimal APIs / routing mapping
+            builder.Services.AddSwaggerGen();
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.MapOpenApi();
+                // Enables the middleware to serve the generated JSON document
+                app.UseSwagger();
+
+                // Enables the interactive Swagger UI web page
+                app.UseSwaggerUI();
             }
 
             app.UseHttpsRedirection();

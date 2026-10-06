@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Bookmark_Manager.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Bookmark_Manager.Data
 {
@@ -8,5 +9,7 @@ namespace Bookmark_Manager.Data
         {
             
         }
+        DbSet<Category> categories { get; set; }
+        DbSet<Bookmark> bookmarks { get; set; }
     }
 }

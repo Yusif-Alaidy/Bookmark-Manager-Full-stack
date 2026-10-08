@@ -16,6 +16,17 @@ namespace Bookmark_Manager
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
+            #region CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAngular", policy =>
+                    policy.WithOrigins("http://localhost:4200")   // add your real frontend URL later
+                          .AllowAnyHeader()
+                          .AllowAnyMethod());
+            });
+
+            #endregion
+
             #region DB Connection
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(
@@ -33,6 +44,10 @@ namespace Bookmark_Manager
 
 
             var app = builder.Build();
+
+            // CORS ---------------------------------------
+            app.UseCors("AllowAngular");
+            // --------------------------------------------
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

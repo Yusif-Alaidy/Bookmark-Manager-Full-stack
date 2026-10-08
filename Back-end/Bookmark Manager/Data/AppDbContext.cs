@@ -9,7 +9,7 @@ namespace Bookmark_Manager.Data
         {
             
         }
-        DbSet<Category> categories { get; set; }
-        DbSet<Bookmark> bookmarks { get; set; }
+        public DbSet<Category> categories { get; set; }
+        public DbSet<Bookmark> bookmarks { get; set; }
     }
 }

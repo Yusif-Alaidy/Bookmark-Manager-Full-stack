@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\controllers\\bookmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\controllers\\bookmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\dtos\\updatebookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\dtos\\updatebookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\dtos\\createbookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\dtos\\createbookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\dtos\\requestcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\dtos\\requestcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\models\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\models\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|solutionrelative:bookmark manager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E3640C-60AA-9D7A-D1A3-F0427F50B031}|Bookmark Manager\\Bookmark Manager.csproj|d:\\programing\\projects\\bookmark manager\\back-end\\bookmark manager\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,24 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestCategory.cs",
+              "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\DTOs\\RequestCategory.cs",
+              "RelativeDocumentMoniker": "Bookmark Manager\\DTOs\\RequestCategory.cs",
+              "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\DTOs\\RequestCategory.cs",
+              "RelativeToolTip": "Bookmark Manager\\DTOs\\RequestCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:06:05.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookMark.cs",
+              "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\DTOs\\UpdateBookMark.cs",
+              "RelativeDocumentMoniker": "Bookmark Manager\\DTOs\\UpdateBookMark.cs",
+              "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\DTOs\\UpdateBookMark.cs",
+              "RelativeToolTip": "Bookmark Manager\\DTOs\\UpdateBookMark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:20:37.456Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookMarkController.cs",
+              "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Controllers\\BookMarkController.cs",
+              "RelativeDocumentMoniker": "Bookmark Manager\\Controllers\\BookMarkController.cs",
+              "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Controllers\\BookMarkController.cs",
+              "RelativeToolTip": "Bookmark Manager\\Controllers\\BookMarkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:58:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Bookmark.cs",
               "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Models\\Bookmark.cs",
               "RelativeDocumentMoniker": "Bookmark Manager\\Models\\Bookmark.cs",
               "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Models\\Bookmark.cs",
               "RelativeToolTip": "Bookmark Manager\\Models\\Bookmark.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T14:29:38.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T14:29:38.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Bookmark Manager\\Models\\Category.cs",
@@ -67,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "20261006130120_int.cs",
               "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Migrations\\20261006130120_int.cs",
               "RelativeDocumentMoniker": "Bookmark Manager\\Migrations\\20261006130120_int.cs",
@@ -79,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Bookmark Manager\\appsettings.Development.json",
@@ -91,7 +143,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Bookmark Manager\\Program.cs",
+              "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Program.cs",
+              "RelativeToolTip": "Bookmark Manager\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:26:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBookMark.cs",
+              "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\DTOs\\CreateBookMark.cs",
+              "RelativeDocumentMoniker": "Bookmark Manager\\DTOs\\CreateBookMark.cs",
+              "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\DTOs\\CreateBookMark.cs",
+              "RelativeToolTip": "Bookmark Manager\\DTOs\\CreateBookMark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:55:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\appsettings.Production.json",
               "RelativeDocumentMoniker": "Bookmark Manager\\appsettings.Production.json",
@@ -103,26 +180,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Program.cs",
-              "RelativeDocumentMoniker": "Bookmark Manager\\Program.cs",
-              "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Program.cs",
-              "RelativeToolTip": "Bookmark Manager\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T11:26:47.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Bookmark Manager\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\Programing\\Projects\\Bookmark Manager\\Back-end\\Bookmark Manager\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Bookmark Manager\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T11:30:18.704Z"
             }

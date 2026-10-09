@@ -1,0 +1,17 @@
+@if (service.loading()) {
+  <p>Loading...</p>
+} @else if (service.error()) {
+  <p>{{ service.error() }}</p>
+} @else {
+  @for (b of service.bookmarks(); track b.id) {
+    <div>
+      <a [href]="b.url" target="_blank">{{ b.title }}</a>
+      <button (click)="service.toggleFavorite(b).subscribe()">
+        {{ b.isFavorite ? '★' : '☆' }}
+      </button>
+      <button (click)="remove(b.id)">Delete</button>
+    </div>
+  } @empty {
+    <p>No bookmarks yet.</p>
+  }
+}

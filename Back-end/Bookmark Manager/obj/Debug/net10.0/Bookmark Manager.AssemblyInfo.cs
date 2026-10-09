@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bookmark Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d55b3295f1d5ae5c8ad52bf29716e42ed5d1ad11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4f2d779de4627dce323ae7b60998ffd2155f4e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bookmark Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bookmark Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

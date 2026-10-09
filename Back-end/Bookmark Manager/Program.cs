@@ -50,14 +50,14 @@ namespace Bookmark_Manager
             // --------------------------------------------
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
+            //if (app.Environment.IsDevelopment())
+            //{
                 // Enables the middleware to serve the generated JSON document
                 app.UseSwagger();
 
                 // Enables the interactive Swagger UI web page
                 app.UseSwaggerUI();
-            }
+            //}
 
             app.UseHttpsRedirection();
 
